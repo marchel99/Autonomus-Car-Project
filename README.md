@@ -15,9 +15,9 @@ This project is a group project for my master studies, where we aim to create a 
 
 On the left side, there is a representation of a path that our academic instructors set up for us, delineated with aluminum tape for the boundaries and highlighted by red lines in the image to represent the magnetic tape for the start and finish lines. Our main aim, both straightforward and challenging, was to construct an autonomous car capable of navigating from 'START' to 'FINISH.' This required the car to: <br>
 <br>
-  1) Spot the finish line, which is indicated by the magnetic tape. <br>
-  2) Stay within the track marked by the aluminum tape. <br>
-  3) Avoid any blocks or objects it comes across on the track. <br>
+1. Spot the finish line, which is indicated by the magnetic tape. <br>
+2. Stay within the track marked by the aluminum tape. <br>
+3. Avoid any blocks or objects it comes across on the track. <br>
 
   </tr>
 </table>
