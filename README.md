@@ -11,7 +11,7 @@ This project is a group project for my master studies, where we aim to create a 
 <table>
   
   <tr>
-    <td valign="top"><img src="https://i.imgur.com/DamleBA_d.webp?maxwidth=760&fidelity=grand          " align="left" width="50%    />          </td>          <td align="left"  > 
+    <td valign="top"><img src="https://i.imgur.com/DamleBA_d.webp?maxwidth=760&fidelity=grand          " align="left" width="30%    />          </td>          <td align="left"  > 
 
 On the left side, there is a representation of a path that our academic instructors set up for us, delineated with aluminum tape for the boundaries and highlighted by red lines in the image to represent the magnetic tape for the start and finish lines. Our main aim, both straightforward and challenging, was to construct an autonomous car capable of navigating from 'START' to 'FINISH.' This required the car to: <br>
 <br>
