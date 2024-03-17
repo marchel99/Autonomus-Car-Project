@@ -5,7 +5,7 @@ This project is a group project for our master studies, where we aim to create a
 Hardware Components
 
 ![image](    https://i.imgur.com/YUKnNPi.jpeg           )
-
+![image](    https://i.imgur.com/qg05XSh.jpeg         )
 
 # Scheme
 
