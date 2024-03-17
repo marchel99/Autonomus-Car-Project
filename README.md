@@ -1,65 +1,84 @@
 
 
+
 # Overview 
 
-This project is a group project for my master studies, where we aim to create a small autonomous car using an ESP32 microcontroller. The car will be able to navigate a predefined path, avoid obstacles, and follow traffic rules using sensors and algorithms (SLAM)
-Hardware Components
+This project is a group project for my master studies, where we aim to create a small autonomous car using an ESP32 microcontroller. The car will be able to navigate a predefined path, avoid obstacles using sensors and algorithms (SLAM)
 
 # Main objective
 
 
-
 <table>
+  
   <tr>
-    <td valign="top"><img src="https://i.imgur.com/2fDKnan.png" align="right" /></td> <td align="right"> 
-
+    <td valign="top"><img src="https://i.imgur.com/DamleBA_d.webp?maxwidth=760&fidelity=grand          " align="right" /></td> <td align="left"> 
 <h2> <b> Primary goal  </b> </h2>
-The primary goal was to design and build an autonomous robot capable of detecting and following a track differentiated by materials — aluminum tape for the path and magnetic tape for the start and finish lines. The robot needed to successfully navigate from start to finish, avoiding any obstacles along the way.       
+On the left side, there is a representation of a path that our academic instructors set up for us, delineated with aluminum tape for the boundaries and highlighted by red lines in the image to represent the magnetic tape for the start and finish lines. Our main aim, both straightforward and challenging, was to construct an autonomous car capable of navigating from 'START' to 'FINISH.' This required the car to: <br>
+<br>
+  1) Spot the finish line, which is indicated by the magnetic tape. <br>
+  2) Stay within the track marked by the aluminum tape. <br>
+  3) Avoid any blocks or objects it comes across on the track. <br>
+  <br>
 
-<h2><b> Track Design: </b></h2>
-The track was a simple rectangle, with the long stretches marked by white aluminum tape and the shorter start and finish lines marked by red magnetic tape. This design tested the robot's ability to switch from following one type of tape to another without veering off course.
-    
-    
-    
-    
   </tr>
 </table>
 
 
 
+# Front view
+In the image provided, we can observe the frontal perspective of my autonomous vehicle prototype, meticulously crafted and fabricated through 3D printing techniques. Notably, the grille showcased at the forefront serves more than just a decorative purpose; it fulfills a pivotal functional role. Concealed within this grille lies an infrared reflective sensor meticulously engineered for navigation purposes..
 
-
-
-
-
-
-
-
-___
-
-On the photo, we see the front view of a robot car that I've personally designed and 3D printed. The prominent grille at the front isn't just for aesthetics; it plays a functional role too. It conceals an infrared reflective sensor used for navigation. The track this car follows is laid out with magnetic tape at the start and finish lines, with aluminum tape forming the rest of the route. The car's sensor, mounted behind the grille, can be adjusted up or down to optimize its tracking performance, ensuring it can accurately follow the course from start to finish.
-
-
+The way I've set it up is future-proof, meaning if we ever need to attach a different sensor down the line, we can easily do it. Also, we can adjust the sensor's position up or down to get the best performance.
 
 
 ![image](    https://i.imgur.com/YUKnNPi.jpeg           )
+___
+  <br>
+
+ 
+
+# Back view
+Looking at the back, I took a similar approach. Here, you'll also find a reflective sensor, which can be adjusted up or down. By placing sensors both at the front and back, we ensure that the car never veers beyond the aluminum line. This dual-sensor setup guarantees precise navigation along the designated path.
 
 
 ![image](    https://i.imgur.com/qg05XSh.jpeg         )
+___
+  <br>
+
+
+
+# Overview
+blabla you can see
+
+
+![image](   https://i.imgur.com/fGrfiqM.png       )
+___
+  <br>
+
+
+
+# Electronics board
+blablabla
+  ESP32 microcontroller
+    Motor Driver
+    Two DC motors
+    Laser sensor
+    Battery pack
 
 
 ![image](    https://i.imgur.com/9yN8TEG.jpeg   )
-# Scheme
+___
+  <br>
 
+
+
+# Scheme
+blabla scheamtic as you can 
 
 
 ![image](  https://i.imgur.com/IcdMZ2e.png  )
 
 
 
-    ESP32 microcontroller
-    Motor Driver
-    Two DC motors
-    Laser sensor
-    Battery pack
+  
    
