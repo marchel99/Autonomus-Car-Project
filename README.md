@@ -47,7 +47,7 @@ ___
 
 
 # Overview
-blabla you can see
+This image showcases the comprehensive layout of our autonomous vehicle project. Central to the design is a robust chassis, carrying a green printed circuit board (PCB) prominently placed for electronic components. Encoders, which precisely measure the wheel speed, are positioned on the black side elements. Additionally, accommodations have been made for a stepper motor; this key component features a lever for zeroing as well as an integrated limit switch for precise control. At the forefront, there's a designated spot for a laser sensor, engineered for the crucial task of obstacle detection, ensuring smooth navigation.
 
 
 ![image](   https://i.imgur.com/fGrfiqM.png       )
