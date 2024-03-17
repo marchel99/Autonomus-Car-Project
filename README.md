@@ -77,6 +77,10 @@ blabla scheamtic as you can
 
 ![image](  https://i.imgur.com/IcdMZ2e.png  )
 
+# Visualization
+
+![image](  https://i.imgur.com/HuyclRT.png )
+
 
 
   
