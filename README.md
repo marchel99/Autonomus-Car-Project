@@ -6,7 +6,7 @@ Hardware Components
 
 ![image](    https://i.imgur.com/YUKnNPi.jpeg           )
 ![image](    https://i.imgur.com/qg05XSh.jpeg         )
-
+![image](    https://i.imgur.com/9yN8TEG.jpeg   )
 # Scheme
 
 ![image]( 
