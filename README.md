@@ -57,7 +57,7 @@ ___
 
 
 # Electronics board
-blablabla
+...
   ESP32 microcontroller
     Motor Driver
     Two DC motors
@@ -72,7 +72,7 @@ ___
 
 
 # Scheme
-blabla scheamtic as you can 
+...
 
 
 ![image](  https://i.imgur.com/IcdMZ2e.png  )
