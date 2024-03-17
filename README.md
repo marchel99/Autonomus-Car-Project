@@ -18,7 +18,6 @@ On the left side, there is a representation of a path that our academic instruct
   1) Spot the finish line, which is indicated by the magnetic tape. <br>
   2) Stay within the track marked by the aluminum tape. <br>
   3) Avoid any blocks or objects it comes across on the track. <br>
-  <br>
 
   </tr>
 </table>
